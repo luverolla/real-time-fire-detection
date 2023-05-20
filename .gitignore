@@ -161,3 +161,7 @@ cython_debug/
 
 # local files
 local/
+
+# dataset files
+TRAINING_SET/
+GT/
